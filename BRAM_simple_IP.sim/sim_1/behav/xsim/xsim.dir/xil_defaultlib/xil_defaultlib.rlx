@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/FPGA_Lab/BRAM/BRAM_simple_IP/BRAM_simple_IP.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1770058897,verilog,,D:/FPGA_Lab/BRAM/BRAM_simple_IP/BRAM_simple_IP.srcs/sources_1/new/bram_ip_wrapper.v,,blk_mem_gen_0,,,,,,,,
+D:/FPGA_Lab/BRAM/BRAM_simple_IP/BRAM_simple_IP.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+D:/FPGA_Lab/BRAM/BRAM_simple_IP/BRAM_simple_IP.srcs/sim_1/new/tb_top_bram_ip_example.v,1770058521,verilog,,,,tb_top_bram_ip_example,,,,,,,,
+D:/FPGA_Lab/BRAM/BRAM_simple_IP/BRAM_simple_IP.srcs/sources_1/new/bram_ip_wrapper.v,1770058604,verilog,,D:/FPGA_Lab/BRAM/BRAM_simple_IP/BRAM_simple_IP.srcs/sources_1/new/top_bram_ip_example.v,,bram_ip_wrapper,,,,,,,,
+D:/FPGA_Lab/BRAM/BRAM_simple_IP/BRAM_simple_IP.srcs/sources_1/new/top_bram_ip_example.v,1770058481,verilog,,D:/FPGA_Lab/BRAM/BRAM_simple_IP/BRAM_simple_IP.srcs/sim_1/new/tb_top_bram_ip_example.v,,top_bram_ip_example,,,,,,,,
